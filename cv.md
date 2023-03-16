@@ -36,3 +36,6 @@ function bmi(weight, height) {
 ```
 
 ###Experience
+
+###Education
+*University: Belarusian State University, Faculty of Philology
