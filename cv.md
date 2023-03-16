@@ -39,3 +39,6 @@ function bmi(weight, height) {
 
 ###Education
 *University: Belarusian State University, Faculty of Philology
+
+###English language
+I have A2 level, but now I am continuing to study to raise the level to B1-B2
