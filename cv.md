@@ -13,3 +13,8 @@
 ###About me
 I'm 19 years old and I'm just starting to learn programming.  This is a completely new field for me, so it is difficult and interesting for me. I live in Belarus and work as a nanny, for some time I studied at the Belarusian State University at the Faculty of Philology.
 
+###Skeels
+*HTML
+*CSS
+*JS (basic)
+*Git
